@@ -6,4 +6,4 @@ Project:
 Objective:
 -----------------------------------------
 Analyse Restaurent dataset (total bill, tips, gender, day, time, etc.) 
-aur visualise data using seaborn library.
+and visualise data using seaborn library.
